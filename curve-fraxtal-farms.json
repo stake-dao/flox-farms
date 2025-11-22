@@ -61,11 +61,6 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "WFRAX/cvxFXS",
-      "balance_source_address": "0xcA69191C697503801A2616276595c394C79183f2",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "frxUSD/USDC",
       "balance_source_address": "0x53c16cC416E5c1484993C35489f75dF684f5eAb3",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -73,6 +68,11 @@
     {
       "name": "frxUSD/FXB20291231",
       "balance_source_address": "0xa730c6aBc3ac9961239317D4A277e1aD04281C0B",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "WFRAX/cvxFXS",
+      "balance_source_address": "0xcA69191C697503801A2616276595c394C79183f2",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -116,13 +116,13 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/DAI",
-      "balance_source_address": "0x3a2f89268BC63C43854e3913bA7D20c822bE7385",
+      "name": "frxUSD/dUSD",
+      "balance_source_address": "0x89d608cC9Ea016a04B55618E4FEDBB360D99d129",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/dUSD",
-      "balance_source_address": "0x89d608cC9Ea016a04B55618E4FEDBB360D99d129",
+      "name": "frxUSD/DAI",
+      "balance_source_address": "0x3a2f89268BC63C43854e3913bA7D20c822bE7385",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -131,8 +131,8 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "DKDEFI/BTCWITCH/IQYIELD",
-      "balance_source_address": "0x2ecAd0130601eeE6Bc8C0710009005BaA2620423",
+      "name": "Llamalend WFRAX",
+      "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -146,13 +146,18 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
+      "name": "DKDEFI/BTCWITCH/IQYIELD",
+      "balance_source_address": "0x2ecAd0130601eeE6Bc8C0710009005BaA2620423",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
       "name": "sdUSD/sfrxUSD",
       "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "Llamalend WFRAX",
-      "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
+      "name": "frxUSD/FXB20271231",
+      "balance_source_address": "0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -176,15 +181,10 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/FXB20271231",
-      "balance_source_address": "0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "frxUSD/sUSDe",
       "balance_source_address": "0x0AF2940483e007369B5F6FeA08797f8D147b2d9f",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2025-11-21T00:08:45.093Z"
+  "last_updated": "2025-11-22T00:08:42.720Z"
 }
