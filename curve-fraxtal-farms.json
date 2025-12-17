@@ -141,6 +141,11 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
+      "name": "sdUSD/sfrxUSD",
+      "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
       "name": "DKDEFI/BTCWITCH/IQYIELD",
       "balance_source_address": "0x2ecAd0130601eeE6Bc8C0710009005BaA2620423",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -148,11 +153,6 @@
     {
       "name": "Llamalend WFRAX",
       "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "sdUSD/sfrxUSD",
-      "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -186,5 +186,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2025-12-16T00:09:49.758Z"
+  "last_updated": "2025-12-17T00:08:16.293Z"
 }
