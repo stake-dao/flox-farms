@@ -66,6 +66,11 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
+      "name": "frxUSD/dUSD",
+      "balance_source_address": "0x89d608cC9Ea016a04B55618E4FEDBB360D99d129",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
       "name": "Llamalend WFRAX",
       "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -73,11 +78,6 @@
     {
       "name": "frxUSD/USDC",
       "balance_source_address": "0x53c16cC416E5c1484993C35489f75dF684f5eAb3",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "frxUSD/dUSD",
-      "balance_source_address": "0x89d608cC9Ea016a04B55618E4FEDBB360D99d129",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -186,5 +186,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-01-12T00:10:22.846Z"
+  "last_updated": "2026-01-13T00:07:51.430Z"
 }
