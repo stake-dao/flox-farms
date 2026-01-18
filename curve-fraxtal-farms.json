@@ -61,11 +61,6 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/dUSD",
-      "balance_source_address": "0x89d608cC9Ea016a04B55618E4FEDBB360D99d129",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "dUSD/sUSDe",
       "balance_source_address": "0x2dE8D6d7A51F68a8Fa4A71AaB4661fb6080d6a6f",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -83,6 +78,11 @@
     {
       "name": "frxUSD/USDe",
       "balance_source_address": "0xd3F2Aa55e1eB77B5f3A6197E5416940436BbF268",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "frxUSD/dUSD",
+      "balance_source_address": "0x89d608cC9Ea016a04B55618E4FEDBB360D99d129",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -141,11 +141,6 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "scrvUSD/sfrxUSD",
-      "balance_source_address": "0xa3F115b64329024923fC52d774F078BcB03f551B",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "sdUSD/sfrxUSD",
       "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -153,6 +148,11 @@
     {
       "name": "SQUID/SQUILL",
       "balance_source_address": "0x9C1a1b52Bf2c42B6e7E2dCdAEF260b60386Ad76b",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "scrvUSD/sfrxUSD",
+      "balance_source_address": "0xa3F115b64329024923fC52d774F078BcB03f551B",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -186,5 +186,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-01-17T00:09:09.006Z"
+  "last_updated": "2026-01-18T00:10:34.591Z"
 }
