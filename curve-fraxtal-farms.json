@@ -1,13 +1,13 @@
 {
   "curve_fraxtal_farms": [
     {
-      "name": "sdUSD/sfrxUSD",
-      "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
+      "name": "Llamalend WFRAX",
+      "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "Llamalend WFRAX",
-      "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
+      "name": "sdUSD/sfrxUSD",
+      "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -126,6 +126,26 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
+      "name": "Llamalend CRV",
+      "balance_source_address": "0x0a3a3cA2300d9885044310FC5CA125F0f192A715",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "InsfrxETH/sfrxETH",
+      "balance_source_address": "0xDeA6Bf765bE6EBEFc5F57c8681CD6506045815B6",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "pxETH/frxETH",
+      "balance_source_address": "0xc5406F584Ae00E096dD3bCc7dD47Cbc20aFcb895",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "ezETH/frxETH",
+      "balance_source_address": "0x85D86eF2aB0BAF1131E604A512b87Fc2D30777aD",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
       "name": "frxUSD/FXB_20241231",
       "balance_source_address": "0x97B7B838dC7749fe0767704c08074a9F6eaF6375",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -164,27 +184,7 @@
       "name": "dUSD/sUSDe",
       "balance_source_address": "0x2dE8D6d7A51F68a8Fa4A71AaB4661fb6080d6a6f",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "Llamalend CRV",
-      "balance_source_address": "0x0a3a3cA2300d9885044310FC5CA125F0f192A715",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "InsfrxETH/sfrxETH",
-      "balance_source_address": "0xDeA6Bf765bE6EBEFc5F57c8681CD6506045815B6",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "pxETH/frxETH",
-      "balance_source_address": "0xc5406F584Ae00E096dD3bCc7dD47Cbc20aFcb895",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "ezETH/frxETH",
-      "balance_source_address": "0x85D86eF2aB0BAF1131E604A512b87Fc2D30777aD",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-01-25T00:10:43.341Z"
+  "last_updated": "2026-01-26T00:10:38.401Z"
 }
