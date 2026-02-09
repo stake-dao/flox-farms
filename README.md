@@ -6,13 +6,13 @@ All farms use 18 decimals by default.
 
 | Name | URL | Balance Source Address | Holding Address |
 |------|-----|------------------------|-----------------|
-| frxUSD/sUSDe | [StakeDAO](https://stakedao.org/yield?search=0x0AF2940483e007369B5F6FeA08797f8D147b2d9f) | `0x0AF2940483e007369B5F6FeA08797f8D147b2d9f` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | DKDEFI/BTCWITCH/IQYIELD | [StakeDAO](https://stakedao.org/yield?search=0x2ecAd0130601eeE6Bc8C0710009005BaA2620423) | `0x2ecAd0130601eeE6Bc8C0710009005BaA2620423` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/FXB20271231 | [StakeDAO](https://stakedao.org/yield?search=0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439) | `0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxETH/sfrxETH | [StakeDAO](https://stakedao.org/yield?search=0xBD259D280240a436E8A2761816493EF1FbD25c4b) | `0xBD259D280240a436E8A2761816493EF1FbD25c4b` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend sfrxUSD | [StakeDAO](https://stakedao.org/yield?search=0xfc2f55d6a042032D6E4E46152f4237C5dB547823) | `0xfc2f55d6a042032D6E4E46152f4237C5dB547823` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxETH/SQUID | [StakeDAO](https://stakedao.org/yield?search=0x8CDCDccAB3fC79c267B8361AdDAefD3aADaB9778) | `0x8CDCDccAB3fC79c267B8361AdDAefD3aADaB9778` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | SQUID/SQUILL | [StakeDAO](https://stakedao.org/yield?search=0x9C1a1b52Bf2c42B6e7E2dCdAEF260b60386Ad76b) | `0x9C1a1b52Bf2c42B6e7E2dCdAEF260b60386Ad76b` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
+| frxUSD/sUSDe | [StakeDAO](https://stakedao.org/yield?search=0x0AF2940483e007369B5F6FeA08797f8D147b2d9f) | `0x0AF2940483e007369B5F6FeA08797f8D147b2d9f` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | WFRAX/sdFXS | [StakeDAO](https://stakedao.org/yield?search=0xD90725436f2D8fE152132394b2985dd5cd4dC197) | `0xD90725436f2D8fE152132394b2985dd5cd4dC197` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/FXB20291231 | [StakeDAO](https://stakedao.org/yield?search=0xa730c6aBc3ac9961239317D4A277e1aD04281C0B) | `0xa730c6aBc3ac9961239317D4A277e1aD04281C0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend SQUID | [StakeDAO](https://stakedao.org/yield?search=0x655f5728DD7ca30fDF85Ab94dD4394Dcee547471) | `0x655f5728DD7ca30fDF85Ab94dD4394Dcee547471` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
@@ -31,7 +31,6 @@ All farms use 18 decimals by default.
 | scrvUSD/sfrxUSD | [StakeDAO](https://stakedao.org/yield?search=0xa3F115b64329024923fC52d774F078BcB03f551B) | `0xa3F115b64329024923fC52d774F078BcB03f551B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend sfrxETH | [StakeDAO](https://stakedao.org/yield?search=0x637c09524b0F29fb761cb7029DE4C04656beD6f9) | `0x637c09524b0F29fb761cb7029DE4C04656beD6f9` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/DAI | [StakeDAO](https://stakedao.org/yield?search=0x3a2f89268BC63C43854e3913bA7D20c822bE7385) | `0x3a2f89268BC63C43854e3913bA7D20c822bE7385` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
-| crvUSD/frxETH/CRV | [StakeDAO](https://stakedao.org/yield?search=0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B) | `0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/USDC | [StakeDAO](https://stakedao.org/yield?search=0x53c16cC416E5c1484993C35489f75dF684f5eAb3) | `0x53c16cC416E5c1484993C35489f75dF684f5eAb3` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | dUSD/sUSDe | [StakeDAO](https://stakedao.org/yield?search=0x2dE8D6d7A51F68a8Fa4A71AaB4661fb6080d6a6f) | `0x2dE8D6d7A51F68a8Fa4A71AaB4661fb6080d6a6f` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend CRV | [StakeDAO](https://stakedao.org/yield?search=0x0a3a3cA2300d9885044310FC5CA125F0f192A715) | `0x0a3a3cA2300d9885044310FC5CA125F0f192A715` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
@@ -43,3 +42,4 @@ All farms use 18 decimals by default.
 | frxUSD/FXB20251231 | [StakeDAO](https://stakedao.org/yield?search=0xE364EddAa1d3B340d5e1613869a068aE5d1E0134) | `0xE364EddAa1d3B340d5e1613869a068aE5d1E0134` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | crvUSD/USDT | [StakeDAO](https://stakedao.org/yield?search=0x0723c00B684b3AdC805B6491562DDA33Edb7202C) | `0x0723c00B684b3AdC805B6491562DDA33Edb7202C` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | crvUSD/USDC | [StakeDAO](https://stakedao.org/yield?search=0x00d4739926e49682F1915e483e1B93b3591d7E32) | `0x00d4739926e49682F1915e483e1B93b3591d7E32` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
+| crvUSD/frxETH/CRV | [StakeDAO](https://stakedao.org/yield?search=0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B) | `0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
