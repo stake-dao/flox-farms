@@ -6,11 +6,6 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "Llamalend sfrxETH",
-      "balance_source_address": "0x637c09524b0F29fb761cb7029DE4C04656beD6f9",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "crvUSD/USDC",
       "balance_source_address": "0x00d4739926e49682F1915e483e1B93b3591d7E32",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -48,6 +43,11 @@
     {
       "name": "pxETH/frxETH",
       "balance_source_address": "0xc5406F584Ae00E096dD3bCc7dD47Cbc20aFcb895",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "Llamalend sfrxETH",
+      "balance_source_address": "0x637c09524b0F29fb761cb7029DE4C04656beD6f9",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -191,5 +191,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-03-11T00:10:33.288Z"
+  "last_updated": "2026-03-12T00:11:07.274Z"
 }
