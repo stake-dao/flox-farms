@@ -1,13 +1,8 @@
 {
   "curve_fraxtal_farms": [
     {
-      "name": "Llamalend sfrxETH",
-      "balance_source_address": "0x637c09524b0F29fb761cb7029DE4C04656beD6f9",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "crvUSD/frxETH/CRV",
-      "balance_source_address": "0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B",
+      "name": "frxUSD/DAI",
+      "balance_source_address": "0x3a2f89268BC63C43854e3913bA7D20c822bE7385",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -26,8 +21,13 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/DAI",
-      "balance_source_address": "0x3a2f89268BC63C43854e3913bA7D20c822bE7385",
+      "name": "crvUSD/frxETH/CRV",
+      "balance_source_address": "0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "Llamalend sfrxETH",
+      "balance_source_address": "0x637c09524b0F29fb761cb7029DE4C04656beD6f9",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -171,6 +171,11 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
+      "name": "sdUSD/sfrxUSD",
+      "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
       "name": "frxUSD/PYUSD",
       "balance_source_address": "0x36c09cCF94aAba31D89Da5187171C8d445336370",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -181,15 +186,10 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "sdUSD/sfrxUSD",
-      "balance_source_address": "0xbC493610B083132617e8bA33A5Da5BFBD2555C28",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "Llamalend sfrxUSD",
       "balance_source_address": "0xfc2f55d6a042032D6E4E46152f4237C5dB547823",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-03-15T00:14:51.447Z"
+  "last_updated": "2026-03-16T00:14:52.067Z"
 }
