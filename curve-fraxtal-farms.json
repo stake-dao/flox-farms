@@ -21,11 +21,6 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "crvUSD/frxETH/CRV",
-      "balance_source_address": "0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "Llamalend sfrxETH",
       "balance_source_address": "0x637c09524b0F29fb761cb7029DE4C04656beD6f9",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -38,6 +33,11 @@
     {
       "name": "ezETH/frxETH",
       "balance_source_address": "0x85D86eF2aB0BAF1131E604A512b87Fc2D30777aD",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "crvUSD/frxETH/CRV",
+      "balance_source_address": "0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -191,5 +191,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-03-16T00:14:52.067Z"
+  "last_updated": "2026-03-17T00:13:31.836Z"
 }
