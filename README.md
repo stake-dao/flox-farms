@@ -7,10 +7,10 @@ All farms use 18 decimals by default.
 | Name | URL | Balance Source Address | Holding Address |
 |------|-----|------------------------|-----------------|
 | frxUSD/DAI | [StakeDAO](https://stakedao.org/yield?search=0x3a2f89268BC63C43854e3913bA7D20c822bE7385) | `0x3a2f89268BC63C43854e3913bA7D20c822bE7385` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
-| crvUSD/frxETH/CRV | [StakeDAO](https://stakedao.org/yield?search=0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B) | `0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | crvUSD/USDC | [StakeDAO](https://stakedao.org/yield?search=0x00d4739926e49682F1915e483e1B93b3591d7E32) | `0x00d4739926e49682F1915e483e1B93b3591d7E32` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | crvUSD/USDT | [StakeDAO](https://stakedao.org/yield?search=0x0723c00B684b3AdC805B6491562DDA33Edb7202C) | `0x0723c00B684b3AdC805B6491562DDA33Edb7202C` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/FXB20251231 | [StakeDAO](https://stakedao.org/yield?search=0xE364EddAa1d3B340d5e1613869a068aE5d1E0134) | `0xE364EddAa1d3B340d5e1613869a068aE5d1E0134` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
+| crvUSD/frxETH/CRV | [StakeDAO](https://stakedao.org/yield?search=0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B) | `0xe4Cb8603cd13F5cdCF0628A06C00131a07594E0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend sfrxETH | [StakeDAO](https://stakedao.org/yield?search=0x637c09524b0F29fb761cb7029DE4C04656beD6f9) | `0x637c09524b0F29fb761cb7029DE4C04656beD6f9` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/FXB_20241231 | [StakeDAO](https://stakedao.org/yield?search=0x97B7B838dC7749fe0767704c08074a9F6eaF6375) | `0x97B7B838dC7749fe0767704c08074a9F6eaF6375` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | ezETH/frxETH | [StakeDAO](https://stakedao.org/yield?search=0x85D86eF2aB0BAF1131E604A512b87Fc2D30777aD) | `0x85D86eF2aB0BAF1131E604A512b87Fc2D30777aD` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
