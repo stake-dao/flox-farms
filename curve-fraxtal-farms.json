@@ -121,13 +121,13 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "scrvUSD/sfrxUSD",
-      "balance_source_address": "0xa3F115b64329024923fC52d774F078BcB03f551B",
+      "name": "frxUSD/FXB20551231",
+      "balance_source_address": "0x94Ea177BEFFcE3C77c3d9452434EFb17A2D73623",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/FXB20551231",
-      "balance_source_address": "0x94Ea177BEFFcE3C77c3d9452434EFb17A2D73623",
+      "name": "scrvUSD/sfrxUSD",
+      "balance_source_address": "0xa3F115b64329024923fC52d774F078BcB03f551B",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -141,13 +141,13 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/FXB20271231",
-      "balance_source_address": "0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439",
+      "name": "BTCWITCH/ABTC",
+      "balance_source_address": "0x8a7B9fcB4f09fF25FD8D16296e790A7Fb5e860DD",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "BTCWITCH/ABTC",
-      "balance_source_address": "0x8a7B9fcB4f09fF25FD8D16296e790A7Fb5e860DD",
+      "name": "frxUSD/FXB20271231",
+      "balance_source_address": "0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -191,5 +191,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-03-24T00:12:00.730Z"
+  "last_updated": "2026-03-25T00:14:12.090Z"
 }
