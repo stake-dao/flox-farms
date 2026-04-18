@@ -21,18 +21,8 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "Llamalend sfrxUSD",
-      "balance_source_address": "0xfc2f55d6a042032D6E4E46152f4237C5dB547823",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "frxUSD/FXB_20551231",
       "balance_source_address": "0x94Ea177BEFFcE3C77c3d9452434EFb17A2D73623",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
-      "name": "Llamalend WFRAX",
-      "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -46,18 +36,28 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
+      "name": "Llamalend sfrxUSD",
+      "balance_source_address": "0xfc2f55d6a042032D6E4E46152f4237C5dB547823",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
       "name": "frxUSD/wfrxETH/WFRAX",
       "balance_source_address": "0xA4db60cda0deDCd63F95587D7100A77033d22D54",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "frxUSD/USDT",
-      "balance_source_address": "0xBEedB0191F12A3D172Fc5a3c53c05868D61a3397",
+      "name": "Llamalend WFRAX",
+      "balance_source_address": "0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
       "name": "WFRAX/sdFXS",
       "balance_source_address": "0xD90725436f2D8fE152132394b2985dd5cd4dC197",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "frxUSD/USDT",
+      "balance_source_address": "0xBEedB0191F12A3D172Fc5a3c53c05868D61a3397",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -191,5 +191,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-04-17T00:20:21.272Z"
+  "last_updated": "2026-04-18T00:18:00.375Z"
 }
