@@ -7,11 +7,11 @@ All farms use 18 decimals by default.
 | Name | URL | Balance Source Address | Holding Address |
 |------|-----|------------------------|-----------------|
 | frxUSD/FXB20271231 | [StakeDAO](https://stakedao.org/yield?search=0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439) | `0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
-| frxUSD/FXB20291231 | [StakeDAO](https://stakedao.org/yield?search=0xa730c6aBc3ac9961239317D4A277e1aD04281C0B) | `0xa730c6aBc3ac9961239317D4A277e1aD04281C0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | crvUSD/frxUSD | [StakeDAO](https://stakedao.org/yield?search=0x1D63626aFe8EA97B0Ed05d6f21612F2159DD52C7) | `0x1D63626aFe8EA97B0Ed05d6f21612F2159DD52C7` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
+| frxUSD/FXB20291231 | [StakeDAO](https://stakedao.org/yield?search=0xa730c6aBc3ac9961239317D4A277e1aD04281C0B) | `0xa730c6aBc3ac9961239317D4A277e1aD04281C0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | wfrxETH/sfrxETH | [StakeDAO](https://stakedao.org/yield?search=0xBD259D280240a436E8A2761816493EF1FbD25c4b) | `0xBD259D280240a436E8A2761816493EF1FbD25c4b` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
-| scrvUSD/sfrxUSD | [StakeDAO](https://stakedao.org/yield?search=0xa3F115b64329024923fC52d774F078BcB03f551B) | `0xa3F115b64329024923fC52d774F078BcB03f551B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/FXB_20551231 | [StakeDAO](https://stakedao.org/yield?search=0x94Ea177BEFFcE3C77c3d9452434EFb17A2D73623) | `0x94Ea177BEFFcE3C77c3d9452434EFb17A2D73623` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
+| scrvUSD/sfrxUSD | [StakeDAO](https://stakedao.org/yield?search=0xa3F115b64329024923fC52d774F078BcB03f551B) | `0xa3F115b64329024923fC52d774F078BcB03f551B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend sfrxETH | [StakeDAO](https://stakedao.org/yield?search=0x637c09524b0F29fb761cb7029DE4C04656beD6f9) | `0x637c09524b0F29fb761cb7029DE4C04656beD6f9` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | WFRAX/cvxFXS | [StakeDAO](https://stakedao.org/yield?search=0xcA69191C697503801A2616276595c394C79183f2) | `0xcA69191C697503801A2616276595c394C79183f2` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend WFRAX | [StakeDAO](https://stakedao.org/yield?search=0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56) | `0xFa80A23d162aC5fD4CF3EB399C63c33F9adC5A56` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
