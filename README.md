@@ -7,8 +7,8 @@ All farms use 18 decimals by default.
 | Name | URL | Balance Source Address | Holding Address |
 |------|-----|------------------------|-----------------|
 | frxUSD/FXB20271231 | [StakeDAO](https://stakedao.org/yield?search=0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439) | `0xE7B60D6ABBa4E0a801ad29c9b824602aB9a0c439` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
-| crvUSD/frxUSD | [StakeDAO](https://stakedao.org/yield?search=0x1D63626aFe8EA97B0Ed05d6f21612F2159DD52C7) | `0x1D63626aFe8EA97B0Ed05d6f21612F2159DD52C7` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | wfrxETH/sfrxETH | [StakeDAO](https://stakedao.org/yield?search=0xBD259D280240a436E8A2761816493EF1FbD25c4b) | `0xBD259D280240a436E8A2761816493EF1FbD25c4b` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
+| crvUSD/frxUSD | [StakeDAO](https://stakedao.org/yield?search=0x1D63626aFe8EA97B0Ed05d6f21612F2159DD52C7) | `0x1D63626aFe8EA97B0Ed05d6f21612F2159DD52C7` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/FXB20291231 | [StakeDAO](https://stakedao.org/yield?search=0xa730c6aBc3ac9961239317D4A277e1aD04281C0B) | `0xa730c6aBc3ac9961239317D4A277e1aD04281C0B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/FXB_20551231 | [StakeDAO](https://stakedao.org/yield?search=0x94Ea177BEFFcE3C77c3d9452434EFb17A2D73623) | `0x94Ea177BEFFcE3C77c3d9452434EFb17A2D73623` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | scrvUSD/sfrxUSD | [StakeDAO](https://stakedao.org/yield?search=0xa3F115b64329024923fC52d774F078BcB03f551B) | `0xa3F115b64329024923fC52d774F078BcB03f551B` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
@@ -22,7 +22,6 @@ All farms use 18 decimals by default.
 | WFRAX/sdFXS | [StakeDAO](https://stakedao.org/yield?search=0xD90725436f2D8fE152132394b2985dd5cd4dC197) | `0xD90725436f2D8fE152132394b2985dd5cd4dC197` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | wfrxETH/SQUID | [StakeDAO](https://stakedao.org/yield?search=0x8CDCDccAB3fC79c267B8361AdDAefD3aADaB9778) | `0x8CDCDccAB3fC79c267B8361AdDAefD3aADaB9778` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | SQUID/SQUILL | [StakeDAO](https://stakedao.org/yield?search=0x9C1a1b52Bf2c42B6e7E2dCdAEF260b60386Ad76b) | `0x9C1a1b52Bf2c42B6e7E2dCdAEF260b60386Ad76b` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
-| DKDEFI/BTCWITCH/IQYIELD | [StakeDAO](https://stakedao.org/yield?search=0x2ecAd0130601eeE6Bc8C0710009005BaA2620423) | `0x2ecAd0130601eeE6Bc8C0710009005BaA2620423` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | CRV/frxUSD | [StakeDAO](https://stakedao.org/yield?search=0x0060F1BA196e42A8D6c1E5769888826594334f9F) | `0x0060F1BA196e42A8D6c1E5769888826594334f9F` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | TriFXB | [StakeDAO](https://stakedao.org/yield?search=0x9Ad991D1565c33cE155f7F27ac8bCfe48Ef2D7AB) | `0x9Ad991D1565c33cE155f7F27ac8bCfe48Ef2D7AB` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | frxUSD/dUSD | [StakeDAO](https://stakedao.org/yield?search=0x89d608cC9Ea016a04B55618E4FEDBB360D99d129) | `0x89d608cC9Ea016a04B55618E4FEDBB360D99d129` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
@@ -43,4 +42,5 @@ All farms use 18 decimals by default.
 | frxUSD/sUSDe | [StakeDAO](https://stakedao.org/yield?search=0x0AF2940483e007369B5F6FeA08797f8D147b2d9f) | `0x0AF2940483e007369B5F6FeA08797f8D147b2d9f` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | dUSD/sUSDe | [StakeDAO](https://stakedao.org/yield?search=0x2dE8D6d7A51F68a8Fa4A71AaB4661fb6080d6a6f) | `0x2dE8D6d7A51F68a8Fa4A71AaB4661fb6080d6a6f` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | Llamalend SQUID | [StakeDAO](https://stakedao.org/yield?search=0x655f5728DD7ca30fDF85Ab94dD4394Dcee547471) | `0x655f5728DD7ca30fDF85Ab94dD4394Dcee547471` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
+| DKDEFI/BTCWITCH/IQYIELD | [StakeDAO](https://stakedao.org/yield?search=0x2ecAd0130601eeE6Bc8C0710009005BaA2620423) | `0x2ecAd0130601eeE6Bc8C0710009005BaA2620423` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
 | BTCWITCH/ABTC | [StakeDAO](https://stakedao.org/yield?search=0x8a7B9fcB4f09fF25FD8D16296e790A7Fb5e860DD) | `0x8a7B9fcB4f09fF25FD8D16296e790A7Fb5e860DD` | `0x52f541764e6e90eebc5c21ff570de0e2d63766b6` |
