@@ -36,11 +36,6 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
-      "name": "Llamalend sfrxETH",
-      "balance_source_address": "0x637c09524b0F29fb761cb7029DE4C04656beD6f9",
-      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
-    },
-    {
       "name": "frxUSD/wfrxETH/WFRAX",
       "balance_source_address": "0xA4db60cda0deDCd63F95587D7100A77033d22D54",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
@@ -58,6 +53,11 @@
     {
       "name": "wfrxETH/SQUID",
       "balance_source_address": "0x8CDCDccAB3fC79c267B8361AdDAefD3aADaB9778",
+      "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
+    },
+    {
+      "name": "Llamalend sfrxETH",
+      "balance_source_address": "0x637c09524b0F29fb761cb7029DE4C04656beD6f9",
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     },
     {
@@ -191,5 +191,5 @@
       "holding_address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6"
     }
   ],
-  "last_updated": "2026-06-09T00:29:34.336Z"
+  "last_updated": "2026-06-10T00:35:38.338Z"
 }
